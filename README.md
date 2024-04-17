@@ -9,4 +9,3 @@ lonnagee/lonnagee is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-![unnamed](https://github.com/lonnagee/lonnagee/assets/136399598/18091efd-d71f-4648-8f84-c28f8647b1d7)
